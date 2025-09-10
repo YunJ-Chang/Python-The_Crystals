@@ -1,4 +1,4 @@
-# Python - The Crystals
+slides show link : https://www.canva.com/design/DAFC6Yjeq4I/JcPPpW8bKB3Y7XcY2xGXiQ/edit?utm_content=DAFC6Yjeq4I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## 俄羅斯方塊 The Crystal
 此遊戲最初由阿列克謝·帕基特諾夫在蘇聯設計和編寫，於1984年6月6日首次發佈。
